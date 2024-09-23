@@ -19,6 +19,16 @@ const FunHeading = () => (
     </div>
 )
 
+const Root1 =() =>(
+    <div className="container">
+        <FunHeading/>
+        <h3 className="h1">
+            Surya
+        </h3>
+    </div>
+    )
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<FunHeading/>);
+// root.render(<FunHeading/>);
+root.render(<Root1/>);
