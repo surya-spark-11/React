@@ -1,0 +1,8 @@
+/node_modules
+dist
+.parcel-cache
+.vscode
+heap-20240927-125329-main
+heap-20240927-125329-worker1
+heap-20240927-125330-main
+heap-20240927-125330-worker1
